@@ -1,4 +1,4 @@
-# My ArtgalleryWebsite#
+# My ArtgalleryWebsite
 
 Welcome to My Art Gallery! This virtual gallery showcases a captivating collection of pencil sketches, paintings, and commissioned portrait works. I invite art enthusiasts, collectors, and admirers to explore the rich and diverse world of my artistic creations.
 
